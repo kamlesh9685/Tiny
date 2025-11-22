@@ -1,6 +1,6 @@
 # 🌐 TinyLink — URL Shortener (MERN Stack)
 
-🔗 **Live Demo:** [Click here to open TinyLink]()  
+🔗 **Live Demo:** [(https://tinyfronend.onrender.com)]()  
 *(Replace the link above with your Render / Netlify / Vercel deployment URL)*
 
 TinyLink is a full-stack URL shortener built with **Node.js + Express + MongoDB + React + Vite**.  
